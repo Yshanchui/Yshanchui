@@ -61,7 +61,7 @@
                 "sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e"
             ],
             "index": "pypi",
-            "version": "==2.25.1"
+            "version": "==2.31.0"
         },
         "sgmllib3k": {
             "hashes": [
