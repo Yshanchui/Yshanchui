@@ -9,8 +9,8 @@ build = "python main.py"
 [dev-packages]
 
 [packages]
-feedparser = "6.0.2"
-pytz = "2020.5"
+feedparser = '6.0.2'
+pytz = '2020.5'
 
 [requires]
 python_version = "*"
