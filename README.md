@@ -1,4 +1,4 @@
-# ✨2024-06-01✨
+# ✨2024-06-02✨
 
 I'm Shan Chui, an operation and maintenance developer from China. I like learning new things and new skills...
 
